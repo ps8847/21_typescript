@@ -1,0 +1,7 @@
+class in typescript 
+	define a class
+	create a object for class 
+	make property 
+	make function 
+	define data type of function and property 
+	define data type to params 

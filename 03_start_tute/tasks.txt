@@ -1,0 +1,50 @@
+1 )
+		* make a ts file  >> app.ts 
+
+		* write some code  >>
+				let a = "hello ts";
+				console.warn(a);
+
+		* run it with ts  >>
+				run the command : tsc app.ts
+
+		* js file will be generated  >>
+				: app.js
+
+		* make html file >>
+				: index.html
+
+		* add js file in html file  >>
+				: <script src="app.js"></script>
+
+		* and on chrome >>
+				: run the html file and open the console 
+
+2 ) 
+		* make a ts file  >> app.ts 
+
+		* write some code  >>
+				class App {
+					test(){
+						console.warn("working");
+						
+					}
+				}
+
+				let a1 = new App();
+				a1.test()
+
+		* run it with ts >>
+				run the command : tsc app.ts
+
+		* js file will be generated  >>
+				: app.js
+
+		* make html file >>
+				: index.html
+
+		* add js file in html file  >>
+				: <script src="app.js"></script>
+
+		* and on chrome >>
+				: run the html file and open the console 

@@ -1,0 +1,6 @@
+Array in typescripts : 
+
+	Array without Dtata type 
+	push and update array operations in TS 
+	Mixed array 
+	define array type 

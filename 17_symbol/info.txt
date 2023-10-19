@@ -1,0 +1,5 @@
+symbol in typescript 
+what is symbol 
+make a progrsm with symbol 
+use symbol as key of object 
+use symbol as function of class 

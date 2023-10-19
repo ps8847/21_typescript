@@ -1,0 +1,7 @@
+// module in typescript 
+ what is module 
+ make 2 file and make module 
+ use them in single file 
+
+ import sLogin from "./Student
+ import tLogin from "./Teacher

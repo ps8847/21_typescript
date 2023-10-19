@@ -1,0 +1,11 @@
+Interface in typescript 
+why use interface 
+how to use interface 
+interface example with object 
+
+
+Syntax 
+	Interface interface_name{
+		property_type: data_type,
+		property_type: data_type 
+	}

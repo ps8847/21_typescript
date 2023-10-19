@@ -1,0 +1,4 @@
+types in typescript : 
+
+int a = 10
+var a:number = 10

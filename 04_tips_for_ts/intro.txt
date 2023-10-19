@@ -1,0 +1,16 @@
+* what is dublicate identifier issue 
+		 : due to same name files it gives error in the .ts file 
+
+* how to resolve it 
+		: just write >> export {} in the .ts file and re ren it 
+
+* what is watch 
+		: normally we need to return the "tsc app.js" command to reflect the changes into the .js file
+		 but if we want to make changes into .js file without rerun of the cmmands , jus write this command  >>
+		 "tsc app.ts --watch"
+
+* run file without browser 
+		: run the command "node app.js"
+
+* let conversion
+		: ts will convert the "let" to "var" , because "var" is very common usable for many browsers 

@@ -1,0 +1,8 @@
+namespace in typescript 
+	what is namespace 
+	how to use it 
+	example for namespacee 
+
+
+to run app.ts file 
+	command : tsc app.ts --outfile out.js

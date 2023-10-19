@@ -1,0 +1,6 @@
+Inheritance in typescript
+	 what is inheritance 
+	 make a parent class 
+	 make a child class 
+	 inherit a class 
+	 example

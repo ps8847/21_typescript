@@ -1,0 +1,5 @@
+what is generics in typescript 
+why we need it 
+make a program with generics 
+make a program without generics 
+check differnece 

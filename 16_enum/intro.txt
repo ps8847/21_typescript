@@ -1,0 +1,5 @@
+enum in typescript 
+what is enum 
+make a program with enum 
+use enum with variables 
+use enum with function 

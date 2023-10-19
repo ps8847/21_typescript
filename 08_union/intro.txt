@@ -1,0 +1,1 @@
+used to store multimuple type pf data at once

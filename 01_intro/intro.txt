@@ -1,0 +1,22 @@
+what is typescript ? 
+
+* extension is .ts 
+* ts is not a new programming language 
+* typescript is a typed superset of javascript 
+* devloped by microsoft 
+* object oriented 
+
+
+Benefits 
+
+* easy code management 
+* support ecmascript 
+* we can use data types , classes , interface etc .
+* ide support 
+
+
+prerequities 
+
+* Node js and npm 
+* a modern code editor 
+* a basic idea about javascript 

@@ -1,0 +1,3 @@
+run the command : 
+
+npm i -g typescript
